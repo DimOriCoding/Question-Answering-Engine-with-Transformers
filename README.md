@@ -22,5 +22,9 @@ All the above components leads to a very effective question-answering engine, be
 
 All the notebooks that are used for this thesis are categorized as follows:
 
+#https://github.com/DimOriCoding/Question-Answering-Engine-with-Transformers/tree/main/Dataset%20Preprocessing
+
+This file includes notebooks that find the entity labels through SPARQL queries for all the SimpleQuestions datasets (training, validation, test), where these entity labels are added to all the SimpleQuestions datasets. Also the notebooks of this file the preprocessing of the questions is made, which included removing accents, special characters and possessive suffixes to improve entity identification.
+
 
 
