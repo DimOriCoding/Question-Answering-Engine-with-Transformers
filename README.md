@@ -17,3 +17,10 @@ More specifically the main parts of the implementation of this thesis are:
    5.The development of the Question answering engines based on the previous four parts by using cosine similarity metric, jaccard similarity metric and Sentence Transformers Library.
 
 All the above components leads to a very effective question-answering engine, because the percentage of the correctly answered questions is significantly high.
+
+# Notebooks
+
+All the notebooks that are used for this thesis are categorized as follows:
+
+
+
