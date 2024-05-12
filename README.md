@@ -26,7 +26,11 @@ All the notebooks that are used for this thesis are categorized to the following
 
 This file includes notebooks that find the entity labels through SPARQL queries for all the SimpleQuestions datasets (training, validation, test), where these entity labels are added to all the SimpleQuestions datasets. Also the notebooks of this file the preprocessing of the questions is made, which included removing accents, special characters and possessive suffixes to improve entity identification.
 
-[**Sentence Transformers + Cosine Similarity Metric**](https://github.com/DimOriCoding/Question-Answering-Engine-with-Transformers/tree/main/Dataset%20Preprocessing)
+[**Sentence Transformers + Cosine Similarity Metric**](https://github.com/DimOriCoding/Question-Answering-Engine-with-Transformers/tree/main/Sentence%20Transformers%20%2B%20Cosine%20Similarity%20Metric%20Methodology)
 
-This file includes notebooks that find the entity labels through SPARQL queries for all the SimpleQuestions datasets (training, validation, test), where these entity labels are added to all the SimpleQuestions datasets. Also the notebooks of this file the preprocessing of the questions is made, which included removing accents, special characters and possessive suffixes to improve entity identification.
+This file includes notebooks that the methodology of finding entity span indexes (start, end) by using either Sentence Transformers library combined with cosine simliarity metric or the command difflib.get_close_matches() from spacy library. Also these notebooks contain the implementation of separate span entity and relation models, which proved to be effective in addressing the limitations of the single model approach. Both showed excellent performance, with the entity span prediction model achieving 91-94% evaluation scores (F1-score, accuracy, precision, recall) and the relation prediction model 94-96% accuracy.
+
+[**Sentence Transformers + Jaccard Similarity Metric**](https://github.com/DimOriCoding/Question-Answering-Engine-with-Transformers/tree/main/Sentence%20Transformers%20%2B%20Jaccard%20Similarity%20Metric%20Methodology)
+
+This file includes notebooks that the methodology of finding entity span indexes (start, end) by using either Sentence Transformers library combined with jaccard simliarity metric or the command difflib.get_close_matches() from spacy library. Also these notebooks contain the implementation of separate span entity and relation models, which proved to be effective in addressing the limitations of the single model approach. Both showed excellent performance, with the entity span prediction model achieving 91-94% evaluation scores (F1-score, accuracy, precision, recall) and the relation prediction model 94-96% accuracy.
 
