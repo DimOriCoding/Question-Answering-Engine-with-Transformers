@@ -1,0 +1,60 @@
+Which home is an example of italianate architecture?,Q615196,R149,Q6265419,John and Maria Adams House
+what type of object is 25049 christofnorn,Q1753907,P31,Q3863,asteroid	
+Which person was born in liverpool?,Q24826,R19,Q2632,Ringo Starr
+What film genre is twilight considered to be?,Q160071,P136,Q1054574,romance film
+which type of film is the bitter tea of general yen?,Q568239,P136,Q130232,drama film
+What is the gender of Athina Maximou,Q12873135,P21,Q6581072,female
+Name an Rolling Stones album,Q11036,R175,Q31933,Metamorphosis
+Who directed woody meets davy crewcut,Q8033685,P57,Q2310245,Alex Lovy
+who was the first NSW female Minister of Education died from cancer,Q12078,R509,Q7934181,Virginia Chadwick
+What position does denis shcherbak play,Q4528782,P413,Q193592,midfielder
+which country does the show un refugio para el amor originate from,Q1068093,P495,Q96,Mexico
+what alternative rock band from Chicago is the author of of the blue colour of the sky,Q2071360,P175,Q736107,OK Go
+who is the artist that performed on the album sample and hold: attack decay sustain release?,Q7410135,P175,Q585470,Simian Mobile Disco
+where john brewster jr. was born,Q6223118,P19,Q2572461,Hampton
+what is a multiplayer game?,Q6895044,R404,Q3552034,Untold Legends: Brotherhood of the Blade
+which company produced hot enough for june,Q12124859,P272,Q1535788,Rank Organisation
+is jose figueroa alcorta from argentina or costa rica,Q442729,P27,Q414,Argentina
+What kind of game is microsoft international soccer 2000,Q3312381,P136,Q868217,sports video game
+who is the composer of the song liar?,Q1049271,P86,Q15869,Freddie Mercury
+Joshua Kimmich is member of which sports team?,Q13865408,P54,Q15789,FC Bayern Munich
+What is the name of a folk rock singer (or group)?,Q186472,R136,Q633,Neil Young
+Who was born in dakar?,Q3718,R19,Q3032934,Djibril Diawara
+where did edward i. edwards died,Q436902,P20,Q26339,Jersey City 
+What is the sex of david swift?,Q5240208,P21,Q6581097,male
+What language is mission to caracas written in,Q6878840,P364,Q150,French
+what genre is the album why is there air?,Q7997809,P136,Q145806,stand-up comedy
+what is chad mustard's nationality,Q5066318,P27,Q30,United States of America
+what is an instrument played by carl jackson,Q5040368,P1303,Q6607,guitar
+Which is Aristotle Onassis profession?,Q180455,P106,Q500251,ship-owner 
+what genre of music does bo diddley play?,Q208881,P136,Q7749,rock and roll
+Which genre of music was the album duck rock labeled?,Q910692,P136,Q187760,new wave
+what is Michael Ballack's country of nationality,Q11948,P27,Q183,Germany
+what football position does dorin dickerson play at?,Q3037050,P413,Q918224,wide receiver
+which country is purple people eater filmed in?,Q3410974,P495,Q30,United States of America
+idris phillips follows this major religion.,Q16192877,P140,Q432,Islam
+what instrument does ashwin sood play?,Q4806196,P1303,Q128309,drum kit
+Where was gunnar johansen born in Denmark?,Q445899,P19,Q1748,Copenhagen
+What is the country of origin of the show tok! tok! tok! isang milyon pasok!,Q7813436,P495,Q928,Philippines
+What is the political ideology behind the german free-minded party?,Q560777,P1142,Q821102,progressivism 
+Name an territorial entity which is contained in England,Q21,P150,Q47967,North West England
+what is a silent film from 1927,Q226730,R136,Q12037390,The Lovers of an Old Criminal
+The power rangers dino thunder game was published by what American company?,Q11888796,P123,Q580866,THQ
+which was the country of citizehship of christopher robinson,Q2966640,P27,Q16,Canada
+Which position was David Beckham played,Q10520,P413,Q193592,midfielder 
+what is the second level division of the division crixas do tocantins,Q1801175,P17,Q155,Brazil
+Which film was directed by ian iqbal rashid,Q15461094,R57,Q2628332,Touch of Pink
+Which genre of book is bin laden: the man who declared war on america?,Q4913778,P136,Q36279,biography
+which country does dany saadia belong to,Q5221412,P27,Q96,Mexico 
+what is largemouth bass,Q755105,P105,Q7432,species
+does british music band crawler play blues-rock or classical,Q2774245,P136,Q193355,blues-rock
+what river does the neville island bridge cross,Q7004736,P177,Q4915,Ohio River
+what was the country of origin of the tv show sidewalks entertainment,Q7508530,P495,Q30,United States of America
+Which notable person has Rome as place of death,Q220,P20,Q1048,Julius Caesar
+what is the category of the celestial object 1241 dysona,Q137259,P31,Q3863,asteroid
+what is a city in yolo county in california,Q109709,R131,Q1368039,Esparto
+which place was named after john radcliffe (english physician),Q922508,R138,Q6254080,John Radcliffe Hospital 
+What is Albert Einstein occupation?,Q937,P106,Q169470,physicist
+which is the film's crying freeman country of origin?,Q657981,P495,Q17,Japan
+what kind of music is played on film life and death of an american fourtracker,Q6545041,P136,Q183504,indie rock
+what's the name of an documentary film,Q93204,R136,Q24258,Visions of Light
