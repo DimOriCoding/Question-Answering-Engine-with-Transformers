@@ -1,0 +1,642 @@
+Which home is an example of italianate architecture?
+R149
+italianate architecture
+Q615196
+answer:  Fairfield House
+answer:  Royal Albert Hall
+answer:  Casa Rosada
+answer:  Osborne House
+answer:  Houses at 37–47 North Fifth Street
+answer:  Balch Hotel
+answer:  Lower East Side Tenement Museum
+answer:  Hugh Glenn House
+answer:  Palacio de los Leones
+answer:  Houghton County Courthouse
+answer:  Campbell-Rumsey House
+answer:  Chatsworth House
+answer:  Tweed Courthouse
+answer:  Criterion Hotel
+answer:  Robinson-Schwenn Building
+Name an album by Beatles
+R175
+beatles
+Q1299
+answer:  Rarities
+answer:  Sgt. Pepper's Lonely Hearts Club Band
+answer:  Abbey Road
+answer:  All You Need Is Love
+answer:  Please Please Me
+answer:  With the Beatles
+answer:  A Hard Day's Night
+answer:  Taxman
+answer:  Let It Be
+answer:  Revolver
+answer:  Rubber Soul
+answer:  Let It Be
+answer:  Eleanor Rigby
+answer:  Help!
+answer:  Yesterday
+what type of object is 25049 christofnorn
+P31
+25049 christofnorn
+Q1753907
+answer:  asteroid
+Which professional footballer was born in liverpool?
+R19
+liverpool
+Q24826
+answer:  Ringo Starr
+answer:  James Heneghan
+answer:  Toni Duggan
+answer:  Adam Morgan
+answer:  Richard Laurence Millington Synge
+answer:  Adam F
+answer:  Miles Jackson-Lipkin
+answer:  Keith Newton
+answer:  Gertrud Luckner
+answer:  David Johnson
+answer:  David Weatherall
+answer:  Zarqa Nawaz
+answer:  Kevin Nolan
+answer:  Simon Rattle
+answer:  William Ewart Gladstone
+What film genre is twilight considered to be?
+P136
+twilight
+Q44523
+answer:  romantic fiction
+answer:  vampire fiction
+answer:  young adult fiction
+which type of film is the bitter tea of general yen released in?
+P136
+the bitter tea of general yen
+None
+Sorry, no answer available
+What is the gender of Athina Maximou
+P21
+athina maximou
+Q87758
+answer:  female
+Which is Steven Gerrard's birthplace?
+P19
+steven gerrard
+Q459830
+answer:  Whiston
+Name an Rolling Stones album
+R175
+rolling stones
+Q11036
+answer:  Flowers
+answer:  Through the Past, Darkly (Big Hits Vol. 2)
+answer:  GRRR!
+answer:  Metamorphosis
+answer:  More Hot Rocks
+answer:  Sucking in the Seventies
+answer:  The Last Time
+answer:  Jump Back: The Best of The Rolling Stones
+answer:  Fingerprint File
+answer:  No Security
+answer:  Rarities 1971–2003
+answer:  Live Licks
+answer:  Heart of Stone
+answer:  (I Can't Get No) Satisfaction
+answer:  Angie
+Who directed woody meets davy crewcut
+P57
+woody meets davy crewcut
+Q8033685
+answer:  Alex Lovy
+who was the first NSW female Minister of Education died from cancer
+R509
+who was the first nsw female minister of education died
+None
+Sorry, no answer available
+What position does denis shcherbak play
+P413
+denis shcherbak
+Q4528782
+answer:  midfielder
+which country does the show un refugio para el amor originate from
+P495
+un refugio para el amor
+Q3282946
+answer:  Mexico
+what alternative rock band from Chicago is the author of of the blue colour of the sky
+P175
+alternative rock band from chicago
+Q11366
+Sorry, no answer available
+who is the artist that performed on the album sample and hold: attack decay sustain release?
+P175
+sample and hold :
+Q3960714
+answer:  ASAP
+what is the name of the city where  john brewster, jr. was born
+P19
+john brewster jr
+Q529351
+answer:  Havre
+Where was Maria Callas born?
+P19
+maria callas
+Q128297
+answer:  New York City
+answer:  Flower Hospital
+what is a multiplayer game?
+R404
+a multiplayer game
+Q6895044
+answer:  Civilization III
+answer:  Civilization IV
+answer:  Civilization V
+answer:  Commandos 2: Men of Courage
+answer:  Freedom Force vs the 3rd Reich
+answer:  Heroes of Might and Magic V
+answer:  Heroes of Might and Magic V: Hammers of Fate
+answer:  Heroes of Might and Magic V: Tribes of the East
+answer:  Need for Speed: Shift
+answer:  Football Manager
+answer:  Donkey Kong
+answer:  Uncharted 3: Drake's Deception
+answer:  Uncharted 2: Among Thieves
+answer:  Grand Theft Auto V
+answer:  Spectromancer
+For which team Florian Wirtz playing?
+P413
+florian wirtz
+Q94699949
+answer:  midfielder
+which company produced hot enough for june
+P272
+hot enough for june
+Q6689944
+Sorry, no answer available
+is jose figueroa alcorta from argentina or costa rica
+P27
+jose figueroa alcorta
+Q442729
+answer:  Argentina
+is jos? figueroa alcorta from argentina or costa rica
+P27
+jos figueroa alcorta
+None
+Sorry, no answer available
+What kind of game is microsoft international soccer 2000
+P136
+microsoft international soccer 2000
+Q3312381
+answer:  association football video game
+which queen band member composed the song liar?
+P86
+liar
+Q124707535
+Sorry, no answer available
+steve wilson played what american football position
+P413
+steve wilson
+Q7614323
+Sorry, no answer available
+Kimmich is member of which sports team?
+R21
+kimmich
+Q1740261
+Sorry, no answer available
+What is the name of a folk rock album?
+R136
+folk rock
+Q186472
+answer:  Bob Dylan
+answer:  Neil Young
+answer:  Leonard Cohen
+answer:  The Beatles
+answer:  Led Zeppelin
+answer:  George Harrison
+answer:  Paul Simon
+answer:  Denez Prigent
+answer:  Alan Stivell
+answer:  Tri Yann
+answer:  Cher
+answer:  Amy Macdonald
+answer:  Ilgi
+answer:  Marcus Mumford
+answer:  Tsvety
+Who was born in dakar?
+R19
+dakar
+Q3718
+answer:  Lamine Diack
+answer:  Patrice Evra
+answer:  Mouhamadou Dabo
+answer:  Mame Biram Diouf
+answer:  Henri Saivet
+answer:  Pape Alioune Diouf
+answer:  Patrick Vieira
+answer:  Idrissa Gueye
+answer:  Abdoul Mbaye
+answer:  Jose Brito
+answer:  Boniface N'Dong
+answer:  Mamadou Diabang
+answer:  Pape Abdou Camara
+answer:  Mansour Gueye
+answer:  Bineta Diedhiou
+where did edward i. edwards pass away
+P20
+edward i edwards
+Q322308
+answer:  Los Angeles
+What type of album is wildside?
+P136
+wildside
+Q8001506
+Sorry, no answer available
+What is the sex of david swift?
+P21
+david swift
+Q5240208
+answer:  male
+What language is mission to caracas written in
+P364
+mission to caracas
+Q1939097
+Sorry, no answer available
+what genre is the album why is there air?
+P136
+why is there air
+Q729375
+Sorry, no answer available
+what is chad mustard's nationality
+P27
+chad mustard
+Q5066318
+answer:  United States of America
+what is an instrument played by carl jackson 
+P1303
+carl jackson
+Q5040368
+answer:  guitar
+answer:  banjo
+answer:  mandolin
+Which is Aristotelis Onassis profession?
+P106
+aristotelis onassis
+Q241812
+answer:  businessperson
+answer:  socialite
+what kind of music is on bo diddley?
+P136
+bo diddley
+Q10431795
+Sorry, no answer available
+duck rock was an album that was labeled into this genre of music.
+R136
+duck rock was
+Q3071
+answer:  U2
+answer:  The Rezillos
+answer:  Pussy Riot
+answer:  Red Hot Chili Peppers
+answer:  London Calling
+answer:  I Wanna Be Your Boyfriend
+answer:  Runter mit den Spendierhosen
+answer:  Gerausch
+answer:  13
+answer:  LostAlone
+answer:  Bratmobile
+answer:  Mars
+answer:  Jazz ist anders
+answer:  Sadao Abe
+answer:  Die Toten Hosen
+What gender is Paul Gascoigne
+P21
+paul gascoigne
+Q13002
+answer:  male
+what position does Pavel Nedved play
+P413
+pavel nedved
+Q171295
+answer:  midfielder
+what is Michael Ballack's country of nationality
+P27
+michael ballack
+Q11948
+answer:  Germany
+what football position does dorin dickerson play at?
+P413
+dorin dickerson
+Q3037050
+answer:  wide receiver
+which country is purple people eater filmed in?
+P495
+purple people eater
+Q3410974
+answer:  United States of America
+idris phillips follows this major religion.
+P140
+idris phillips
+Q16192877
+answer:  Islam
+what instrument does ashwin sood play?
+P1303
+ashwin sood
+Q4806196
+answer:  drum kit
+what nationality is lucille clifton?
+P27
+lucille clifton
+Q65048350
+Sorry, no answer available
+what genre is the album the papercut chronicles
+P136
+the album the papercut chronicles
+None
+Sorry, no answer available
+Where was gunnar johansen born in Denmark?
+P19
+gunnar johansen
+Q445899
+answer:  Copenhagen
+What is the country of origin of the show tok! tok! tok! isang milyon pasok!
+P495
+tok tok
+Q17034570
+answer:  Egypt
+Where did ellen lundstrom die
+P20
+ellen lundstrom
+Q2756371
+answer:  Palm Desert
+Name an region in Greece
+R17
+greece
+Q41
+answer:  Aromanian
+answer:  Arvanitic
+answer:  Elaia
+answer:  Komara
+answer:  Ptelea
+answer:  Dikaia
+answer:  Arzos
+answer:  Cretaquarium
+answer:  Aquarium of Rhodes
+answer:  Battle of Marathon
+answer:  O.A.C.A. Olympic Indoor Hall
+answer:  Crete
+answer:  Aegean Sea
+answer:  Aegean Macedonian
+answer:  Modern Greek
+What is the ideology behind the german free-minded party?
+P1142
+free - minded party
+None
+Sorry, no answer available
+Name a city in England
+R17
+england
+Q21
+Sorry, no answer available
+Michael Owen was member of which sports team?
+R21
+michael owen was
+Q6834930
+Sorry, no answer available
+what is a silent film from 1927
+R136
+silent film
+Q226730
+answer:  Das wandernde Bild
+answer:  Workers Leaving the Lumiere Factory
+answer:  Konungens af Siam landstigning vid Logardstrappan
+answer:  Korsel med Gronlandske Hunde
+answer:  Symphonie diagonale
+answer:  The Broken Coin
+answer:  Daredevil Jack
+answer:  The Hawk's Trail
+answer:  The Screaming Shadow
+answer:  King of the Circus
+answer:  Baseball and Bloomers
+answer:  The Pleasure Garden
+answer:  The Green Archer
+answer:  Modern Times
+answer:  Eugene Onegin
+What type of videogame is FIFA 15?
+P136
+fifa 15
+None
+Sorry, no answer available
+The power rangers dino thunder game was published by what American company?
+P123
+the power rangers dino thunder
+Q643994
+Sorry, no answer available
+Name a person born in Paris.
+R19
+paris
+Q90
+answer:  Claude Monet
+answer:  Nicolas Sarkozy
+answer:  Charles Baudelaire
+answer:  Frederic Taddei
+answer:  Moliere
+answer:  Stephane Mallarme
+answer:  Francois Villon
+answer:  Edith Piaf
+answer:  Renaud
+answer:  Marvin Martin
+answer:  Jacques Chirac
+answer:  Pierre Aim
+answer:  George Sand
+answer:  Etienne-Barthelemy Garnier
+answer:  Sarah Bernhardt
+what country is christopher robinson a citizen of
+P27
+christopher robinson
+Q5113674
+Sorry, no answer available
+Which position was David Beckham played
+P413
+david beckham
+Q10520
+answer:  midfielder
+what is the second level division of the division crixas do tocantins
+P17
+crixas do
+Q4963082
+Sorry, no answer available
+Which film was directed by ian iqbal rashid
+R57
+ian iqbal rashid
+Q15461094
+answer:  How She Move
+answer:  Touch of Pink
+Which genre of book is bin laden: the man who declared war on america?
+P136
+bin laden : the man who declared war
+Q4913778
+answer:  biography
+which country does dany saadia belong to 
+P27
+dany saadia
+Q5221412
+answer:  Mexico
+Which is Francesco Totti playing position?
+P413
+francesco totti
+Q20110
+answer:  midfielder
+answer:  forward
+what is largemouth bass
+P136
+largemouth bass
+Q755105
+Sorry, no answer available
+does crawler play blues-rock or classical
+P136
+crawler
+Q108882180
+Sorry, no answer available
+Where was Max Verstappen born
+P19
+max verstappen
+Q2239218
+answer:  Hasselt
+what river does the neville island bridge cross
+P710
+neville island bridge
+Q7004736
+Sorry, no answer available
+Where was Zinedine Zidane born?
+P19
+zinedine zidane
+Q1835
+answer:  Marseille
+what was the country of origin of the tv show sidewalks entertainment
+P495
+sidewalks entertainment
+Q7508530
+answer:  United States of America
+Name an notable person died in Rome
+R119
+rome
+Q220
+answer:  Galba
+answer:  Vespasian
+answer:  Severus Alexander
+answer:  Horace
+answer:  Stanislaus Hosius
+answer:  Anton Raphael Mengs
+answer:  Athanasius Kircher
+answer:  Giovanni Morone
+answer:  Francis Mary of the Cross Jordan
+answer:  Honorius III
+answer:  Joseph Anton Koch
+answer:  Antonia, Crown Princess of Bavaria
+answer:  Olaus Magnus
+answer:  Giovanni Battista Piranesi
+answer:  Orest Kiprensky
+what is the category of the celestial object 1241 dysona
+P31
+1241 dysona
+Q137259
+answer:  asteroid
+what is a city in yolo county, california
+R131
+yolo county
+Q109709
+answer:  Coast Starlight
+answer:  Interstate 5 in California
+answer:  Interstate 80 in California
+answer:  Interstate 505
+answer:  U.S. Route 50 in California
+answer:  California State Route 16
+answer:  California State Route 275
+answer:  Capitol Corridor
+answer:  California State Route 45
+answer:  Davis
+answer:  California State Route 84
+answer:  California State Route 113
+answer:  California State Route 128
+answer:  Woodland
+answer:  West Sacramento
+which hospital was named after john radcliffe (english physician)
+R138
+john radcliffe
+Q922508
+answer:  Radcliffe Camera
+answer:  Radcliffe Observatory
+answer:  John Radcliffe Hospital
+answer:  Radcliffe Infirmary
+answer:  Radcliffe Quadrangle
+answer:  Radcliffe Science Library
+answer:  Radcliffe Square
+answer:  The Radcliffe Trust
+What is Albert Einstein occupation?
+P106
+albert einstein
+Q937
+answer:  physicist
+where was crying freeman done
+P20
+crying freeman
+Q1117884
+Sorry, no answer available
+Name a famous greek singer
+R106
+greek singer
+Q177220
+answer:  Elvis Presley
+answer:  Bob Dylan
+answer:  Bob Marley
+answer:  Vladimir Vysotsky
+answer:  Patti Smith
+answer:  Brigitte Fontaine
+answer:  Neil Young
+answer:  Kate Bush
+answer:  Stevie Wonder
+answer:  Roman Camenzind
+answer:  John Lennon
+answer:  Bruce Springsteen
+answer:  Leonard Cohen
+answer:  Bruno Mars
+answer:  Alexandra Stan
+What is fat cat's profession?
+P106
+fat cat
+Q5437174
+answer:  singer
+what kind of rock music is on life and death of an american fourtracker
+P136
+life and death of an american four
+None
+Sorry, no answer available
+what's the name of an american documentary film
+R136
+documentary film
+Q93204
+answer:  We Live in Public
+answer:  Special Effects: Anything Can Happen
+answer:  Workers Leaving the Lumiere Factory
+answer:  The Revolution Will Not Be Televised
+answer:  ??Revolucion!?
+answer:  Konungens af Siam landstigning vid Logardstrappan
+answer:  Korsel med Gronlandske Hunde
+answer:  Fellini: A Director's Notebook
+answer:  The Clowns
+answer:  Farewell to Enrico Berlinguer
+answer:  Frat Party at the Pankake Festival
+answer:  Visions of Light
+answer:  Black Box BRD
+answer:  Isle of Flowers
+answer:  Kony 2012
+which gender is Peter Schmeichel
+P21
+peter schmeichel
+Q182314
+answer:  male
+Luis Figo was born in which city?
+P19
+luis figo
+Q483145
+answer:  Lisbon
+answer:  Almada
+
