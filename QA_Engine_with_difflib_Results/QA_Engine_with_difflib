@@ -1,5 +1,0 @@
-This directory contains the results of Question Answering Engine that uses difflib for both SimpleQuestions datasets 
-(including either all questions (answerable, not answerable over Wikidata) or only answerable over Wikidata questions)
-and all the relation prediction methods (relation vocabulary) and entity span prediction methods (entity span encoded with 0 and 1 ignoring or not questions 
-with no equality or similarity with the enitiy label that SPARQL queries give for each question, combination of Sentence Transformer and cosine similarity metric 
-and jaccard similarity metric.
