@@ -10,7 +10,7 @@ More specifically the main parts of the implementation of this thesis are:
    2.The conctruction of some modules for preprocessing questions and converting their content (e.g custom dataset) into token IDs and attention masks.
    
    3.The creation of the BERT-based relation and span entity prediction models through methodologies such as the creation of lists consisting of 0 and 1, the combination of Sentence Transformers library with 
-   either the cosine similarity metric or the jaccard similarity metric.
+   the cosine similarity metric and the use of jaccard similarity metric.
    
    4.The creation of a query executor that retrieves the answer in natural language from the Wikidata endpoint.
    
