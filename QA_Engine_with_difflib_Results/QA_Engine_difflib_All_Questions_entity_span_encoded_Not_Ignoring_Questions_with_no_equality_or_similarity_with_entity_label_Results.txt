@@ -1,0 +1,542 @@
+Question Answering Engine with difflib for Simple Questions dataset including answerable and non-answerable 
+questions over wikidata results for the case of 
+finding entity span encoding with 0 and 1 when not ignoring questions with no similarity or equality 
+with the corresponding entity label. Best activation function that gives the best parameters 
+for entity span prediction: Softplus,
+Activation function that gives the best parameters for relation prediction: ELU
+Which home is an example of italianate architecture?
+R149
+italianate architecture
+Spacy library is used!
+Q615196
+answer:  Fairfield House
+answer:  Royal Albert Hall
+answer:  Casa Rosada
+answer:  Osborne House
+answer:  Houses at 37–47 North Fifth Street
+answer:  Balch Hotel
+answer:  Lower East Side Tenement Museum
+answer:  Hugh Glenn House
+answer:  Palacio de los Leones
+answer:  Houghton County Courthouse
+answer:  Campbell-Rumsey House
+answer:  Chatsworth House
+answer:  Tweed Courthouse
+answer:  Criterion Hotel
+answer:  Robinson-Schwenn Building
+The question is answered with either only correct answers or only incorrect answers or both of them, but with not the expected answer!
+what type of object is 25049 christofnorn
+P31
+25049 christofnorn
+Q1753907
+answer:  asteroid
+The question is answered correctly!
+Which person was born in liverpool?
+R19
+liverpool
+Q24826
+answer:  Ringo Starr
+answer:  James Heneghan
+answer:  Toni Duggan
+answer:  Adam Morgan
+answer:  Richard Laurence Millington Synge
+answer:  Adam F
+answer:  Miles Jackson-Lipkin
+answer:  Keith Newton
+answer:  Gertrud Luckner
+answer:  David Johnson
+answer:  David Weatherall
+answer:  Zarqa Nawaz
+answer:  Kevin Nolan
+answer:  Simon Rattle
+answer:  William Ewart Gladstone
+The question is answered correctly!
+What film genre is twilight considered to be?
+P136
+twilight
+Q44523
+answer:  romantic fiction
+answer:  vampire fiction
+answer:  young adult fiction
+The question is answered correctly, although either entity id or relation id is not predicted correctly!
+which type of film is the bitter tea of general yen?
+P136
+the bitter tea of general yen
+Spacy library is used!
+Q568239
+answer:  drama film
+answer:  romance film
+answer:  film based on literature
+The question is answered correctly!
+What is the gender of Athina Maximou
+P21
+athina maximou
+Spacy library is used!
+Q87758
+answer:  female
+The question is answered correctly, although either entity id or relation id is not predicted correctly!
+Name an Rolling Stones album
+R136
+rolling stones
+Q11036
+Sorry, no answer available
+Who directed woody meets davy crewcut
+P57
+woody meets davy crewcut
+Q8033685
+answer:  Alex Lovy
+The question is answered correctly!
+who was the first NSW female Minister of Education died from cancer
+R509
+cancer
+Q12078
+answer:  Georges Brassens
+answer:  Juan Antonio Rios
+answer:  Harry Mulisch
+answer:  Pierre Desproges
+answer:  Marcel Doret
+answer:  Elder Paisios of Mount Athos
+answer:  Kathleen Lonsdale
+answer:  Jude Milhon
+answer:  Yann-Fañch Kemener
+answer:  Robert Mugabe
+answer:  Henriette Avram
+answer:  Danielle Bunten Berry
+answer:  Ivory Joe Hunter
+answer:  Ivo Lapenna
+answer:  Michel Rocard
+The question is answered with either only correct answers or only incorrect answers or both of them, but with not the expected answer!
+What position does denis shcherbak play
+P413
+denis shcherbak
+Q4528782
+answer:  midfielder
+The question is answered correctly!
+which country does the show un refugio para el amor originate from
+P495
+un refugio para el amor
+Spacy library is used!
+Q1068093
+answer:  Mexico
+The question is answered correctly!
+what alternative rock band from Chicago is the author of of the blue colour of the sky
+R136
+alternative rock
+Q11366
+answer:  Linkin Park
+answer:  U2
+answer:  Neil Young
+answer:  Birds of Tokyo
+answer:  Kevin Rudolf
+answer:  Tom DeLonge
+answer:  Mark Hoppus
+answer:  Coheed and Cambria
+answer:  Ride
+answer:  David Bowie
+answer:  Kurt Cobain
+answer:  Tame Impala
+answer:  Howl
+answer:  Red Hot Chili Peppers
+answer:  Black Francis
+The question is not answered correctly!
+who is the artist that performed on the album sample and hold: attack decay sustain release?
+P175
+sample and hold : attack
+Spacy library is used!
+Q7410135
+answer:  Simian Mobile Disco
+The question is answered correctly!
+where john brewster jr. was born
+P19
+john brewster jr
+Spacy library is used!
+Q6223118
+answer:  Hampton
+The question is answered correctly!
+what is a multiplayer game?
+R404
+a multiplayer game
+Spacy library is used!
+Q6895044
+answer:  Civilization III
+answer:  Civilization IV
+answer:  Civilization V
+answer:  Commandos 2: Men of Courage
+answer:  Freedom Force vs the 3rd Reich
+answer:  Heroes of Might and Magic V
+answer:  Heroes of Might and Magic V: Hammers of Fate
+answer:  Heroes of Might and Magic V: Tribes of the East
+answer:  Need for Speed: Shift
+answer:  Football Manager
+answer:  Super Mario Bros.
+answer:  Donkey Kong
+answer:  Uncharted 3: Drake's Deception
+answer:  Uncharted 2: Among Thieves
+answer:  Grand Theft Auto V
+The question is answered with either only correct answers or only incorrect answers or both of them, but with not the expected answer!
+which company produced hot enough for june
+P272
+hot enough for june
+Spacy library is used!
+Q12124859
+answer:  Rank Organisation
+The question is answered correctly!
+is jose figueroa alcorta from argentina or costa rica
+P27
+jose figueroa alcorta
+Q442729
+answer:  Argentina
+The question is answered correctly!
+What kind of game is microsoft international soccer 2000
+P136
+microsoft international soccer 2000
+Q3312381
+answer:  association football video game
+The question is answered with either only correct answers or only incorrect answers or both of them, but with not the expected answer!
+who is the composer of the song liar?
+P86
+liar
+Q6540228
+Sorry, no answer available
+Joshua Kimmich is member of which sports team?
+P641
+joshua kimmich
+Q13865408
+answer:  association football
+The question is answered with either only correct answers or only incorrect answers or both of them, but with not the expected answer!
+What is the name of a folk rock singer (or group)?
+R136
+folk rock
+Q186472
+answer:  Bob Dylan
+answer:  Neil Young
+answer:  Leonard Cohen
+answer:  The Beatles
+answer:  Led Zeppelin
+answer:  George Harrison
+answer:  Paul Simon
+answer:  Denez Prigent
+answer:  Alan Stivell
+answer:  Tri Yann
+answer:  Cher
+answer:  Amy Macdonald
+answer:  Iļģi
+answer:  Marcus Mumford
+answer:  Tsvety
+The question is answered correctly!
+Who was born in dakar?
+R19
+dakar
+Q3718
+answer:  Lamine Diack
+answer:  Patrice Evra
+answer:  Mouhamadou Dabo
+answer:  Mame Biram Diouf
+answer:  Henri Saivet
+answer:  Pape Alioune Diouf
+answer:  Patrick Vieira
+answer:  Idrissa Gueye
+answer:  Abdoul Mbaye
+answer:  José Brito
+answer:  Boniface N'Dong
+answer:  Mamadou Diabang
+answer:  Pape Abdou Camara
+answer:  Mansour Gueye
+answer:  Bineta Diedhiou
+The question is answered with either only correct answers or only incorrect answers or both of them, but with not the expected answer!
+where did edward i. edwards died
+P20
+edward i edwards
+Spacy library is used!
+Q436902
+answer:  Jersey City
+The question is answered correctly!
+What is the sex of david swift?
+P21
+david swift
+Q5240208
+answer:  male
+The question is answered correctly!
+What language is mission to caracas written in
+P364
+mission to caracas
+Spacy library is used!
+Q6878840
+answer:  French
+The question is answered correctly!
+what genre is the album why is there air?
+P136
+why is there air
+Spacy library is used!
+Q7997809
+answer:  stand-up comedy
+The question is answered correctly!
+what is chad mustard's nationality
+P27
+chad mustard
+Q5066318
+answer:  United States of America
+The question is answered correctly!
+what is an instrument played by carl jackson
+P1303
+carl jackson
+Q5040368
+answer:  guitar
+answer:  banjo
+answer:  mandolin
+The question is answered correctly!
+Which is Aristotle Onassis profession?
+P106
+aristotle onassis
+Q180455
+answer:  businessperson
+answer:  entrepreneur
+answer:  ship-owner
+The question is answered correctly!
+what genre of music does bo diddley play?
+P136
+bo diddley
+Q10431795
+Sorry, no answer available
+Which genre of music was the album duck rock labeled?
+P136
+duck rock
+Q910692
+answer:  rock music
+answer:  hip hop music
+answer:  new wave
+The question is answered correctly!
+what is Michael Ballack's country of nationality
+P27
+michael ballack
+Q11948
+answer:  Germany
+The question is answered correctly!
+what football position does dorin dickerson play at?
+P413
+dorin dickerson
+Q3037050
+answer:  wide receiver
+The question is answered correctly!
+which country is purple people eater filmed in?
+P495
+purple people eater
+Q3410974
+answer:  United States of America
+The question is answered correctly!
+idris phillips follows this major religion.
+P140
+idris phillips
+Q16192877
+answer:  Islam
+The question is answered correctly!
+what instrument does ashwin sood play?
+P1303
+ashwin sood
+Q4806196
+answer:  drum kit
+The question is answered correctly!
+Where was gunnar johansen born in Denmark?
+P19
+gunnar johansen
+Q445899
+answer:  Copenhagen
+The question is answered correctly!
+What is the country of origin of the show tok! tok! tok! isang milyon pasok!
+P495
+tok tok to
+Spacy library is used!
+Q3140141
+Sorry, no answer available
+What is the political ideology behind the german free-minded party?
+P1142
+german free - minded party
+Spacy library is used!
+Q560777
+answer:  liberalism
+answer:  laicism
+answer:  progressivism
+The question is answered correctly!
+Name an territorial entity which is contained in England
+R17
+england
+Q21
+answer:  Cornish English
+answer:  Fawcett family
+The question is answered with either only correct answers or only incorrect answers or both of them, but with not the expected answer!
+what is a silent film from 1927
+R136
+silent film
+Q226730
+answer:  Das wandernde Bild
+answer:  Workers Leaving the Lumière Factory
+answer:  Konungens af Siam landstigning vid Logårdstrappan
+answer:  Kørsel med Grønlandske Hunde
+answer:  Symphonie diagonale
+answer:  The Broken Coin
+answer:  Daredevil Jack
+answer:  The Hawk's Trail
+answer:  The Screaming Shadow
+answer:  King of the Circus
+answer:  Baseball and Bloomers
+answer:  The Pleasure Garden
+answer:  The Green Archer
+answer:  Modern Times
+answer:  Eugene Onegin
+The question is answered with either only correct answers or only incorrect answers or both of them, but with not the expected answer!
+The power rangers dino thunder game was published by what American company?
+P123
+the power rangers dino thunder
+Spacy library is used!
+Q11888796
+answer:  THQ
+The question is answered correctly!
+which was the country of citizehship of christopher robinson
+P27
+citizehship of christopher robinson
+Spacy library is used!
+Q370264
+answer:  Canada
+The question is answered correctly, although either entity id or relation id is not predicted correctly!
+Which position was David Beckham played
+P413
+david beckham
+Q10520
+answer:  midfielder
+The question is answered correctly!
+what is the second level division of the division crixas do tocantins
+P17
+crixas do to
+Spacy library is used!
+Q1801175
+answer:  Brazil
+The question is answered correctly!
+Which film was directed by ian iqbal rashid
+R57
+ian iqbal rashid
+Q15461094
+answer:  How She Move
+answer:  Touch of Pink
+The question is answered correctly!
+Which genre of book is bin laden: the man who declared war on america?
+P136
+bin laden : the man who declared war on
+Spacy library is used!
+Q4913778
+answer:  biography
+The question is answered correctly!
+which country does dany saadia belong to
+P27
+dany saadia
+Q5221412
+answer:  Mexico
+The question is answered correctly!
+what is largemouth bass
+R136
+largemouth bass
+Q755105
+Sorry, no answer available
+does british music band crawler play blues-rock or classical
+P136
+crawler
+Q108882180
+Sorry, no answer available
+what river does the neville island bridge cross
+R177
+neville island bridge
+Q7004736
+Sorry, no answer available
+what was the country of origin of the tv show sidewalks entertainment
+P495
+sidewalks entertainment
+Q7508530
+answer:  United States of America
+The question is answered correctly!
+Which notable person has Rome as place of death
+P20
+rome
+Q220
+Sorry, no answer available
+what is the category of the celestial object 1241 dysona
+P31
+1241 dysona
+Q137259
+answer:  asteroid
+The question is answered correctly!
+what is a city in yolo county in california
+R131
+yolo county
+Q109709
+answer:  Langs Peak
+answer:  Sugarloaf
+answer:  Wild Cow Mountain
+answer:  Windy Point
+answer:  Dunnigan Hills Gas Field
+answer:  Collins Eddy Cutoff
+answer:  Alder Canal
+answer:  Colusa Basin Drainage Canal
+answer:  East Adams Canal
+answer:  Farmers Central Ditch
+answer:  Highland Canal
+answer:  Hungry Hollow Canal
+answer:  Kanaka Cutoff
+answer:  Knights Landing Ridge Cut
+answer:  Liberty Cut
+The question is answered with either only correct answers or only incorrect answers or both of them, but with not the expected answer!
+which place was named after john radcliffe (english physician)
+R138
+john radcliffe
+Q922508
+answer:  Radcliffe Camera
+answer:  Radcliffe Observatory
+answer:  John Radcliffe Hospital
+answer:  Radcliffe Infirmary
+answer:  Radcliffe Quadrangle
+answer:  Radcliffe Science Library
+answer:  Radcliffe Square
+answer:  The Radcliffe Trust
+The question is answered correctly!
+What is Albert Einstein occupation?
+P106
+albert einstein
+Q937
+answer:  physicist
+The question is answered correctly!
+which is the film's crying freeman country of origin?
+P495
+crying freeman
+Q1117884
+answer:  Japan
+The question is answered correctly, although either entity id or relation id is not predicted correctly!
+what kind of music is played on film life and death of an american fourtracker
+P136
+film life and death of an american
+Spacy library is used!
+Q6545041
+answer:  indie rock
+The question is answered correctly!
+what's the name of an documentary film
+R136
+documentary film
+Q93204
+answer:  America's Atomic Bomb Tests: Operation Tumbler Snapper
+answer:  Blacksmith Scene
+answer:  Q471371
+answer:  The Secret
+answer:  Q473820
+answer:  EPIC 2014
+answer:  Wild Kingdom
+answer:  See It Now
+answer:  The True Glory
+answer:  Die Vampirprinzessin
+answer:  Workingman's Death
+answer:  Marlene
+answer:  Rabbit à la Berlin
+answer:  The Blues
+answer:  Visions of Eight
+The question is answered correctly!
+42
+9
+60
+The percentage of the test questions that are answered correct is: 70.00%
+The percentage of the test questions that are answered but not with the expected answer is: 15.00%
