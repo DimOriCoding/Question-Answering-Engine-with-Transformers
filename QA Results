@@ -1,3 +1,0 @@
-This file contains the results for all our Question Answering Engines for both SimpleQuestions datasets (Including All questions 
-(answerable and non-answerable over wikidata) and only answerable questions over wikidata) for all entity span and relation prediction methods
-(relation vocabulary, entity span encoded with 0 and 1, Sentence Transformer and Cosine Similarity, Jaccard Similarity)
