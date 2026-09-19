@@ -24,7 +24,7 @@ All the notebooks that are used for this thesis are categorized to the following
 
 [**Dataset Preprocessing**](https://github.com/DimOriCoding/Question-Answering-Engine-with-Transformers/tree/main/Dataset%20Preprocessing)
 
-This file includes notebooks that find the entity labels through SPARQL queries for all the SimpleQuestions datasets (training, validation, test), where these entity labels are added to all the SimpleQuestions datasets. Also the notebooks of this file the preprocessing of the questions is made, which included removing accents, special characters and possessive suffixes to improve entity identification. Additionally this notebook includes all the SimpleQuestions dataset csv files that are created through the process described above briefly (training, validation, test).
+This file includes notebooks that find the entity labels through SPARQL queries for all the SimpleQuestions datasets (training, validation, test), where these entity labels are added to all the SimpleQuestions datasets. Also in the notebooks of this file the preprocessing of the questions is made, which included removing accents, special characters and possessive suffixes to improve entity identification. Additionally this notebook includes all the SimpleQuestions dataset csv files that are created through the process described above briefly (training, validation, test).
 
 [**Sentence Transformers + Cosine Similarity Metric**](https://github.com/DimOriCoding/Question-Answering-Engine-with-Transformers/tree/main/Sentence%20Transformers%20%2B%20Cosine%20Similarity%20Metric%20Methodology)
 
