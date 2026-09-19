@@ -1,8 +1,9 @@
-Question Answering Engine with difflib for Simple Questions dataset including answerable and non-answerable 
+Question Answering Engine with difflib for Simple Questions dataset including only answerable 
 questions over wikidata results for the case of 
-finding entity span with the use of Jaccard Similarity metric.
+finding entity span with the combination of Sentence Transformers and Cosine Similarity metric.
 Best activation function that gives the best parameters for entity span prediction: Softplus,
 Activation function that gives the best parameters for relation prediction: ELU
+
 Which home is an example of italianate architecture?
 R149
 italianate architecture
@@ -24,6 +25,12 @@ answer:  Tweed Courthouse
 answer:  Criterion Hotel
 answer:  Robinson-Schwenn Building
 The question is answered with either only correct answers or only incorrect answers or both of them, but with not the expected answer!
+what type of object is 25049 christofnorn
+P31
+25049 christofnorn
+Q1753907
+answer:  asteroid
+The question is answered correctly!
 Which person was born in liverpool?
 R19
 liverpool
@@ -43,12 +50,6 @@ answer:  Zarqa Nawaz
 answer:  Kevin Nolan
 answer:  Simon Rattle
 answer:  William Ewart Gladstone
-The question is answered correctly!
-what type of object is 25049 christofnorn
-P31
-25049 christofnorn
-Q1753907
-answer:  asteroid
 The question is answered correctly!
 What film genre is twilight considered to be?
 P136
@@ -75,10 +76,25 @@ Q87758
 answer:  female
 The question is answered correctly, although either entity id or relation id is not predicted correctly!
 Name an Rolling Stones album
-R136
+R175
 rolling stones
 Q11036
-Sorry, no answer available
+answer:  Flowers
+answer:  Through the Past, Darkly (Big Hits Vol. 2)
+answer:  GRRR!
+answer:  Metamorphosis
+answer:  More Hot Rocks
+answer:  Sucking in the Seventies
+answer:  The Last Time
+answer:  Jump Back: The Best of The Rolling Stones
+answer:  Fingerprint File
+answer:  No Security
+answer:  Rarities 1971–2003
+answer:  Live Licks
+answer:  Heart of Stone
+answer:  (I Can't Get No) Satisfaction
+answer:  Angie
+The question is answered correctly!
 Who directed woody meets davy crewcut
 P57
 woody meets davy crewcut
@@ -87,25 +103,10 @@ answer:  Alex Lovy
 The question is answered correctly!
 who was the first NSW female Minister of Education died from cancer
 R509
-from cancer
+died from cancer
 Spacy library is used!
-Q189588
-answer:  Napoleon
-answer:  Heinrich Lübke
-answer:  August Strindberg
-answer:  Enrico Fermi
-answer:  James Clerk Maxwell
-answer:  Auguste Comte
-answer:  Gérard Collomb
-answer:  DeForest Kelley
-answer:  Tsutomu Yamaguchi
-answer:  Bertha von Suttner
-answer:  John XXIII
-answer:  Jumabek Ibraimov
-answer:  Theodor Storm
-answer:  John Wayne
-answer:  Ludwig Thoma
-The question is answered with either only correct answers or only incorrect answers or both of them, but with not the expected answer!
+Q3285213
+Sorry, no answer available
 What position does denis shcherbak play
 P413
 denis shcherbak
@@ -120,42 +121,27 @@ Q1068093
 answer:  Mexico
 The question is answered correctly!
 what alternative rock band from Chicago is the author of of the blue colour of the sky
-R136
-alternative rock
-Q11366
-answer:  Bela B
-answer:  Beetlebum
-answer:  Kispál és a Borz
-answer:  Alex Thomas
-answer:  Tender
-answer:  Song 2
-answer:  Leo Aberer
-answer:  Christian Eigner
-answer:  Dario Alessandro Barbanti-Flick
-answer:  Reamonn
-answer:  The Velvet Underground
-answer:  The Cardigans
-answer:  River Phoenix
-answer:  John Lydon
-answer:  Daniel Anderson
-The question is not answered correctly!
+P175
+chicago
+Q1297
+Sorry, no answer available
 who is the artist that performed on the album sample and hold: attack decay sustain release?
 P175
-sample and hold : attack
+sample and hold
 Spacy library is used!
 Q7410135
 answer:  Simian Mobile Disco
 The question is answered correctly!
 where john brewster jr. was born
 P19
-john brewster jr
+where john brewster jr
 Spacy library is used!
 Q6223118
 answer:  Hampton
 The question is answered correctly!
 what is a multiplayer game?
 R404
-multiplayer game
+a multiplayer game
 Spacy library is used!
 Q6895044
 answer:  Civilization III
@@ -228,21 +214,21 @@ Who was born in dakar?
 R19
 dakar
 Q3718
-answer:  Isaac Forster
-answer:  Johnny Sekka
-answer:  Ladji Keita
-answer:  Mahama Johnson Traoré
-answer:  Mamadou Samb
-answer:  Moussa Gueye
-answer:  Louis Gomis
-answer:  Madjiguène Cissé
-answer:  Saliou Ciss
-answer:  Miguel Coulibaly
-answer:  Mohamed Diongue
-answer:  Sitapha Savané
-answer:  Amara Simba
-answer:  Abdoulaye Seck
-answer:  Omar Pene
+answer:  Lamine Diack
+answer:  Patrice Evra
+answer:  Mouhamadou Dabo
+answer:  Mame Biram Diouf
+answer:  Henri Saivet
+answer:  Pape Alioune Diouf
+answer:  Patrick Vieira
+answer:  Idrissa Gueye
+answer:  Abdoul Mbaye
+answer:  José Brito
+answer:  Boniface N'Dong
+answer:  Mamadou Diabang
+answer:  Pape Abdou Camara
+answer:  Mansour Gueye
+answer:  Bineta Diedhiou
 The question is answered with either only correct answers or only incorrect answers or both of them, but with not the expected answer!
 where did edward i. edwards died
 P20
@@ -344,10 +330,10 @@ answer:  Copenhagen
 The question is answered correctly!
 What is the country of origin of the show tok! tok! tok! isang milyon pasok!
 P495
-tok tok to
-Spacy library is used!
-Q3140141
-Sorry, no answer available
+tok tok
+Q17034570
+answer:  Egypt
+The question is answered with either only correct answers or only incorrect answers or both of them, but with not the expected answer!
 What is the political ideology behind the german free-minded party?
 P1142
 german free - minded party
@@ -406,11 +392,10 @@ answer:  midfielder
 The question is answered correctly!
 what is the second level division of the division crixas do tocantins
 P17
-crixas do to
+crixas do
 Spacy library is used!
-Q1801175
-answer:  Brazil
-The question is answered correctly!
+Q4963082
+Sorry, no answer available
 Which film was directed by ian iqbal rashid
 R57
 ian iqbal rashid
@@ -420,7 +405,7 @@ answer:  Touch of Pink
 The question is answered correctly!
 Which genre of book is bin laden: the man who declared war on america?
 P136
-bin laden : the man who declared war on
+bin laden : the man who declared war
 Spacy library is used!
 Q4913778
 answer:  biography
@@ -432,7 +417,7 @@ Q5221412
 answer:  Mexico
 The question is answered correctly!
 what is largemouth bass
-R136
+P136
 largemouth bass
 Q755105
 Sorry, no answer available
@@ -442,16 +427,16 @@ crawler
 Q108882180
 Sorry, no answer available
 what river does the neville island bridge cross
-R177
+P17
 neville island bridge
 Q7004736
-Sorry, no answer available
+answer:  United States of America
+The question is answered with either only correct answers or only incorrect answers or both of them, but with not the expected answer!
 what was the country of origin of the tv show sidewalks entertainment
 P495
-sidewalks entertainment
-Q7508530
-answer:  United States of America
-The question is answered correctly!
+show sidewalks
+None
+Sorry, no answer available
 Which notable person has Rome as place of death
 P20
 rome
@@ -467,21 +452,21 @@ what is a city in yolo county in california
 R131
 yolo county
 Q109709
-answer:  Langs Peak
-answer:  Sugarloaf
-answer:  Wild Cow Mountain
-answer:  Windy Point
-answer:  Dunnigan Hills Gas Field
-answer:  Collins Eddy Cutoff
-answer:  Alder Canal
-answer:  Colusa Basin Drainage Canal
-answer:  East Adams Canal
-answer:  Farmers Central Ditch
-answer:  Highland Canal
-answer:  Hungry Hollow Canal
-answer:  Kanaka Cutoff
-answer:  Knights Landing Ridge Cut
-answer:  Liberty Cut
+answer:  Coast Starlight
+answer:  Interstate 5 in California
+answer:  Interstate 80 in California
+answer:  Interstate 505
+answer:  U.S. Route 50 in California
+answer:  California State Route 16
+answer:  California State Route 275
+answer:  Capitol Corridor
+answer:  California State Route 45
+answer:  Davis
+answer:  California State Route 84
+answer:  California State Route 113
+answer:  California State Route 128
+answer:  Woodland
+answer:  West Sacramento
 The question is answered with either only correct answers or only incorrect answers or both of them, but with not the expected answer!
 which place was named after john radcliffe (english physician)
 R138
@@ -509,12 +494,11 @@ Q1117884
 answer:  Japan
 The question is answered correctly, although either entity id or relation id is not predicted correctly!
 what kind of music is played on film life and death of an american fourtracker
-P136
-life and death of an american
+P86
+life and death of an
 Spacy library is used!
-Q6545041
-answer:  indie rock
-The question is answered correctly!
+Q3772910
+Sorry, no answer available
 what's the name of an documentary film
 R136
 documentary film
@@ -535,8 +519,8 @@ answer:  Black Box BRD
 answer:  Isle of Flowers
 answer:  Kony 2012
 The question is answered correctly!
-41
-10
+39
+11
 60
-The percentage of the test questions that are answered correct is: 68.33%
-The percentage of the test questions that are answered but not with the expected answer is: 16.67%
+The percentage of the test questions that are answered correct is: 65.00%
+The percentage of the test questions that are answered but not with the expected answer is: 18.33%

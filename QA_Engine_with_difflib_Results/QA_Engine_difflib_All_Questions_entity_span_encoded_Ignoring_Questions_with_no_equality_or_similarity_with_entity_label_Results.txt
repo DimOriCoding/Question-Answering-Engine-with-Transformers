@@ -1,9 +1,9 @@
 Question Answering Engine with difflib for Simple Questions dataset including answerable and non-answerable 
-questions over wikidata results for the case of 
-finding entity span encoding with 0 and 1 when ignoring questions with no similarity or equality 
+questions over wikidata results for the entity span prediction method of
+finding entity span encoding with 0 and 1 for the case of ignoring questions with no similarity or equality 
 with the corresponding entity label. Best activation function that gives the best parameters 
-for entity span prediction:ELU,
-Activation function that gives the best parameters for relation prediction:ELU,
+for entity span prediction: ELU,
+Activation function that gives the best parameters for relation prediction: ELU,
 
 
 Which home is an example of italianate architecture?
